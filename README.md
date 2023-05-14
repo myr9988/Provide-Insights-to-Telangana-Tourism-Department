@@ -1,7 +1,6 @@
 # Provide-Insights-to-Telangana-Tourism-Department
 
 Domain: Tourism | Function: Revenue / Municipal Administration
-img
 
 Telangana
 Telangana is a state in southern India with a rich history and diverse cultural heritage. The state offers a range of tourism experiences, from ancient temples and monuments to modern cities and scenic natural landscapes.
@@ -26,4 +25,4 @@ Dataset required to answer preliminary research questions.
 Metadata
 Instructions for using dataset.
 Sample Presentation
-Credits: The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here.
+Credits: The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset
