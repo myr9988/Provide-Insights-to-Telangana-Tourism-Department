@@ -2,7 +2,6 @@
 
 Domain: Tourism | Function: Revenue / Municipal Administration
 
-Telangana
 Telangana is a state in southern India with a rich history and diverse cultural heritage. The state offers a range of tourism experiences, from ancient temples and monuments to modern cities and scenic natural landscapes.
 
 Some of the popular tourist destinations in Telangana include the iconic Charminar monument in Hyderabad, the historic Golconda Fort, the magnificent Warangal Fort and Thousand Pillar Temple, the Nagarjuna Sagar Dam, and the picturesque hill stations like Ananthagiri and Horsley Hills.
