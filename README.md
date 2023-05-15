@@ -17,12 +17,16 @@ Telangana is one of India’s leading states and has published its tourism data 
 
 As a data analyst, we saw this as an opportunity to expand his skills and show his work on a bigger scale and I got a idea is to find the patterns in the given data, do additional research, and give data-informed recommendations to the Telangana government which can be used to increase their revenue by improving administrative operations.
 
-Peter began his work by framing some primary, and secondary research questions and recommendation ideas.
+I have started my work by framing some primary, and secondary research questions and recommendation ideas.
 
 Other resources Provided:
 
 Dataset required to answer preliminary research questions.
+
 Metadata
+
 Instructions for using dataset.
+
 Sample Presentation
+
 Credits: The dataset is taken from Open Data Telangana. Thanks to Telangana Government for providing real-time datasets for public access which is a great learning asset
